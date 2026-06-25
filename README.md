@@ -35,9 +35,11 @@ Strategic Operations Recommendations:
 
 
 Quick business takeaways:
+
 •	Total sales: about $2.30M
 •	Total profit: about $286.4K
 
 
 Conclusion
+
 The Business Sales Performance Analytics Dashboard provides valuable insights into overall business performance. By tracking revenue, profit, orders, products, categories, and regional sales, the dashboard supports data-driven decision-making and helps identify opportunities for business growth and operational improvement.
